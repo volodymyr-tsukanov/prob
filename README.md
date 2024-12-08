@@ -1,7 +1,7 @@
-# prob
+# Cpp
 Probability calculation. <br>
 
-**C++**, **CodeBlocks**
+**C++**, **CodeBlocks** <br><br>
 
 
 Shields: [![Mozilla Public License 2.0][mpl-shield]][mpl]
