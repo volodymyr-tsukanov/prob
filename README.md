@@ -1,8 +1,10 @@
 # prob
 Probability calculation. <br>
 
-**C++**, **CodeBlocks**
+**C++**, **CodeBlocks** <br><br>
 
+
+![Finished](https://img.shields.io/badge/status-Finished%20%F0%9F%94%9A-3CB371?style=for-the-badge&logo=github) <br>
 
 Shields: [![Mozilla Public License 2.0][mpl-shield]][mpl]
 
