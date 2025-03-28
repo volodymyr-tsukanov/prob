@@ -1,4 +1,4 @@
-# prob
+# Cpp
 Probability calculation. <br>
 
 **C++**, **CodeBlocks** <br><br>
